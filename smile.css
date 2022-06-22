@@ -9,7 +9,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #0B3954;
+  background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(93, 175, 185, 0.2413340336134454) 50%, rgba(0, 212, 255, 1) 100%);
 }
 
 .face {
