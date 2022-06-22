@@ -105,4 +105,5 @@ body {
   border: none;
   transform: translateY(1vmin);
   cursor: pointer;
+  transform: rotate(-10deg);
 }
